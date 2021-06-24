@@ -1,2 +1,2 @@
 # Adapt
-The Open-Source base of all FS Operating Systems. Created by the FS OSDT.
+The Open-Source base of all FS Operating Systems. Maintained by the FS OSDT.
